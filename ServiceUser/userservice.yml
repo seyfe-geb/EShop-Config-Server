@@ -1,4 +1,4 @@
-username:
+userservice:
   url: jdbc:mysql://localhost:3306/eshop_user_service_db
   username: root
   password: Seyfe@1abel
