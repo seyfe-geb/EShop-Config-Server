@@ -2,4 +2,4 @@ username:
   url: jdbc:mysql://localhost:3306/eshop_user_service_db
   username: root
   password: Seyfe@1abel
-  driver-class-name: com.mysql.cj.jdbc.Driver
+  driverClassName: com.mysql.cj.jdbc.Driver
