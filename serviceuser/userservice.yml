@@ -1,3 +1,10 @@
+spring:
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+
 user:
   service:
     driverClassName: com.mysql.cj.jdbc.Driver
