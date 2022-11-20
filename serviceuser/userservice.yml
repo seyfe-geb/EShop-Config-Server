@@ -4,3 +4,7 @@ spring:
     username: root
     password: Seyfe@1abel
     driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
