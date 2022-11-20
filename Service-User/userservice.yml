@@ -1,6 +1,5 @@
-#spring.datasource.url=jdbc:mysql://localhost:3306/eshop_user_service_db
-#spring.datasource.username=root
-#spring.datasource.password=Seyfe@1abel
-#spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-#spring.jpa.show-sql=true
-#spring.jpa.hibernate.ddl-auto=update
+username:
+  url: jdbc:mysql://localhost:3306/eshop_user_service_db
+  username: root
+  password: Seyfe@1abel
+  driver-class-name: com.mysql.cj.jdbc.Driver
