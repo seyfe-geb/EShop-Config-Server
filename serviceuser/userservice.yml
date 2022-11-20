@@ -1,0 +1,3 @@
+user:
+  service:
+    driverClassName: com.mysql.cj.jdbc.Driver
